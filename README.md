@@ -6,7 +6,8 @@
 4. [ ] Show how state can be used to hide and show elements
 5. [ ] Show when to set headers in a request (Create)
 6. [ ] Set a remote mongodb instance with atlas for deployment
-7. [ ] Show Promise chains for multiple sql queries/ complex queries
+7. [ ] Talk about code organization and MVC
+8. [ ] Show Promise chains for multiple sql queries/ complex queries
 
 
 ## Resources
