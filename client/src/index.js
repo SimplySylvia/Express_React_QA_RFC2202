@@ -1,8 +1,12 @@
 import React from "react";
 import reactDOM from "react-dom";
 
+import PokemonList from "./PokemonList.js";
+
 const App = () => {
-  return <h1>Hello World</h1>
+  return <div className="App">
+    <PokemonList />
+  </div>
 }
 
 reactDOM.render(<App />, document.getElementById("root"));
