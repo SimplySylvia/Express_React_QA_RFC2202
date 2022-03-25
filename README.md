@@ -7,3 +7,9 @@
 5. [ ] Show when to set headers in a request (Create)
 6. [ ] Set a remote mongodb instance with atlas for deployment
 7. [ ] Show Promise chain for sql queries*
+
+> "*" more clarification required.
+
+## Resources
+
+- [React From Scratch](https://github.com/DaltonHart/HowTo-React-Webpack-Babel)
